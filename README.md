@@ -5,7 +5,7 @@ Installation
 ------------
 Install the plugin with npm:
 ```shell
-$ npm install aliyunoss-webpack-plugin --save-dev
+$ npm install lokielse/aliyunoss-webpack-plugin --save-dev
 ```
 
 Basic Usage
